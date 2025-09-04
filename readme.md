@@ -66,6 +66,8 @@ sebelah kiri untuk pilih kode kamu nanti digabung di branch mana, dan sebelah ka
   <img src="./img/Screenshot 2025-09-04 at 07.26.14.png" width="650" title="hover text">
 </p>
 
-8. kalau udah approve tinggal kamu merge<p align="center">
-<img src="./img/Screenshot 2025-09-04 at 07.26.14.png" width="650" title="hover text">
-</p>
+8. kalau udah approve tinggal kamu merge, tetapi buat jaga jaga , sebelum merge kamu pull dulu dari branch tujuan ya, dan pastikan branch tujuan sudah up to date dengan branch kamu saat ini
+
+9. dan yee, akhirnya kode kita sudah gabung di branch tujuan, tinggal kabarin ke rekan tim kita untuk pull dari branch tujuan ( dev, staging, main, nama branch tujuan tadi )
+
+Happy Coding :>
